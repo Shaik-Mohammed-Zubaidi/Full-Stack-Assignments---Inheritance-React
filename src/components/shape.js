@@ -4,5 +4,6 @@ class Shape {
   drawShape() {}
   calculateArea() {}
 }
-export default Shape;
+
 // export class
+export default Shape;

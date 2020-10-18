@@ -6,7 +6,7 @@ class App extends Component {
 
         return(
             <div>
-               //dont write anything here
+               {/* //dont write anything here */}
             </div>
         )
     }

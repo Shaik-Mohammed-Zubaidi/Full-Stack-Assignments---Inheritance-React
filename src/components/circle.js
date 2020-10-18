@@ -1,5 +1,5 @@
 // import
-import Shape from "./shape";
+import Shape from "./shape.js";
 // declare class
 class Circle extends Shape {
   calculateArea() {}
